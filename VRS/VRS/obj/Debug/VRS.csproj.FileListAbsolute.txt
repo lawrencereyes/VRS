@@ -1,0 +1,9 @@
+C:\Users\Lawrence Reyes\Desktop\Lawrence\AI(Janna)\VRS\VRS\bin\Debug\VRS.exe.config
+C:\Users\Lawrence Reyes\Desktop\Lawrence\AI(Janna)\VRS\VRS\obj\Debug\VRS.csprojResolveAssemblyReference.cache
+C:\Users\Lawrence Reyes\Desktop\Lawrence\AI(Janna)\VRS\VRS\obj\Debug\VRS.form.resources
+C:\Users\Lawrence Reyes\Desktop\Lawrence\AI(Janna)\VRS\VRS\obj\Debug\VRS.Properties.Resources.resources
+C:\Users\Lawrence Reyes\Desktop\Lawrence\AI(Janna)\VRS\VRS\obj\Debug\VRS.csproj.GenerateResource.Cache
+C:\Users\Lawrence Reyes\Desktop\Lawrence\AI(Janna)\VRS\VRS\bin\Debug\VRS.exe
+C:\Users\Lawrence Reyes\Desktop\Lawrence\AI(Janna)\VRS\VRS\bin\Debug\VRS.pdb
+C:\Users\Lawrence Reyes\Desktop\Lawrence\AI(Janna)\VRS\VRS\obj\Debug\VRS.exe
+C:\Users\Lawrence Reyes\Desktop\Lawrence\AI(Janna)\VRS\VRS\obj\Debug\VRS.pdb
